@@ -64,8 +64,7 @@ export const portfolioData: PortfolioData = {
       id: "edu-binus",
       institution: "Universitas Bina Nusantara",
       period: "September 2018 - April 2022",
-      degree: "Bachelor of Computer Science in Database Technology",
-      details: "Accelerated 3.5-year completion (GPA: 3.23/4.00)"
+      degree: "Bachelor of Computer Science in Database Technology"
     }
   ]
 };
