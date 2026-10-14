@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Calendar, Award } from 'lucide-react';
+import { GraduationCap, Calendar} from 'lucide-react';
 import { SectionHeading } from './SectionHeading';
 import type { EducationItem } from '../types/portfolio';
 
